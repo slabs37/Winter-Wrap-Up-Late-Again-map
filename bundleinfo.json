@@ -1,0 +1,96 @@
+{
+  "materials": {
+    "doorrot": {
+      "path": "assets/materials/balloon/doorrot.mat",
+      "properties": {
+        "_Color": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_MainTex": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_BumpMap": {
+          "value": "",
+          "type": {
+            "Texture": null
+          }
+        },
+        "_BumpDepth": {
+          "value": 1.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_SpecColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_Shininess": {
+          "value": 10.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_RimColor": {
+          "value": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "type": {
+            "Color": null
+          }
+        },
+        "_RimPower": {
+          "value": 3.0,
+          "type": {
+            "Float": null
+          }
+        },
+        "_Rotation": {
+          "value": 0.0,
+          "type": {
+            "Float": null
+          }
+        }
+      }
+    }
+  },
+  "prefabs": {
+    "balloon": "assets/prefabs/balloon.prefab",
+    "birds": "assets/prefabs/birds.prefab",
+    "scene": "assets/prefabs/scene.prefab",
+    "scene2": "assets/prefabs/scene2.prefab",
+    "customnote": "assets/vivifytemplate/utilities/prefabs/custom objects/customnote.prefab",
+    "customnotedebris": "assets/vivifytemplate/utilities/prefabs/custom objects/customnotedebris.prefab",
+    "customnotedot": "assets/vivifytemplate/utilities/prefabs/custom objects/customnotedot.prefab"
+  },
+  "bundleFiles": [
+    "F:/Games/Beat Saber VR/Beat Saber_Data/CustomWIPLevels/Winter Wrap Up Late Again/bundleWindows2019.vivify",
+    "F:/Games/Beat Saber VR/Beat Saber_Data/CustomWIPLevels/Winter Wrap Up Late Again/bundleWindows2021.vivify"
+  ],
+  "bundleCRCs": {
+    "_windows2019": 2006504859,
+    "_windows2021": 1221285072
+  },
+  "isCompressed": true
+}
