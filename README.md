@@ -9,5 +9,7 @@ Most things that were done in the making of this level have been written [Here](
 
 # Why is it uploaded
 So that others can learn from this map and hopefully fix something or improve in their own Vivify maps.
+
 Most assets were created by me. Clouds were made by [Howard Day](https://www.youtube.com/watch?v=BQcjsW8ldkw).
+
 You can reuse all assets in this project in your own projects.
