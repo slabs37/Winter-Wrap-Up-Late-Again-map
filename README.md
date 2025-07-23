@@ -5,7 +5,7 @@ Most things that were done in the making of this level have been written [Here](
 
 - [Gameplay Video](https://www.youtube.com/watch?v=qHUIxecySLA)
 - [Map Download](https://beatsaver.com/maps/48c03)
-- [Song](https://www.youtube.com/watch?v=Dkm4QM2AsZ8)
+- [Song](https://www.youtube.com/watch?v=cPqdIEsMpgU&t=1135)
 
 # Why is it uploaded
 So that others can learn from this map and hopefully fix something or improve in their own Vivify maps.
